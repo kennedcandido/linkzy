@@ -32,12 +32,4 @@ It's **100% open source** and built to be easy to tweak, whether you're just sta
 | `pages` | Live demo — kenned.candido's own Linkzy |
 | `developer` | Development branch — work in progress |
 
----
-
-## Support the Project
-
-If Linkzy was useful to you, consider supporting its development. Every contribution helps keep the project alive and improving for everyone.
-
-[![Donate](https://img.shields.io/badge/-❤️%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://kenned-candido.github.io/linkzy/#donate-modal)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1E22&height=85&section=footer"/>
